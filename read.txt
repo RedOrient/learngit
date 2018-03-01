@@ -1,2 +1,3 @@
 git is a free software
 git is so hot and intersting
+git is my favorite
